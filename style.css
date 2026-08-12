@@ -7,3 +7,9 @@ header{
 main { background-color: rgb(164, 18, 18);
 color: black;
 text-align:center; }
+
+div{
+    padding: 20px;
+border: 2px solid red;
+margin: 30px;
+}
